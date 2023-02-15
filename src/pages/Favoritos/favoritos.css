@@ -1,0 +1,35 @@
+.meus-filmes {
+  margin-top: 1.6rem;
+}
+
+.meus-filmes h1 {
+  margin-bottom: 1rem;
+}
+
+.meus-filmes span {
+  font-size: 1.2rem;
+}
+
+.meus-filmes ul {
+  width: 720px;
+}
+
+.meus-filmes ul li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.meus-filmes div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.meus-filmes div a {
+  text-decoration: none;
+  color: #116feb;
+  margin-right: 1rem;
+}
